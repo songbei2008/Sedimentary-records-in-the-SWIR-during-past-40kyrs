@@ -1,1 +1,1 @@
-Geochemical data supporting the study about hydrothermal events in the SWIR
+Geochemical data supporting the study about hydrothermal plume events in the SWIR
